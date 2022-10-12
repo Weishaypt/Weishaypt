@@ -42,8 +42,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Weishaypt"><img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Weishaypt&layout=compact&langs_count=8&theme=gotham&hide_border=true"  width="45%" alt="@Weishaypt's stats"/></a>
-<a href="https://github.com/Weishaypt?tab=achievements"><img height="250em" src="https://github-profile-trophy.vercel.app/?username=Weishaypt&theme=onestar&no-frame=true&column=3&row=2"  width="45%" alt="@Weishaypt's trophy stats"/></a>
+<a href="https://wakatime.com/@Weishaypt"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Weishaypt&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" alt="@Weishaypt's wakatime stats"/></a>
+<a href="https://github.com/Weishaypt?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Weishaypt&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Weishaypt's trophy stats"/></a>
 </p>
 
 
