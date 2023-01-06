@@ -1,5 +1,5 @@
 
-[//]: # ([<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/Weishaypt/Weishaypt/master/assets/cfh.gif?raw=true">]&#40;https://t.me/Weishaypt_aleksey&#41;)
+[//]: # ([<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/Weishaypt/Weishaypt/master/assets/cfh.gif?raw=true">]&#40;https://t.me/Weishaypt&#41;)
 <div align="center">
 <a href="sanek.dev"><img height="200px" src="./assets/animation.gif" alt="sanek.dev"/></a>
 </div>
