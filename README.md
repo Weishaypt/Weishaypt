@@ -12,7 +12,7 @@
 <a href="https://vk.com/alex.konyaev" target="_blank">
 <img src=https://img.shields.io/badge/vk-%2300acee.svg?color=0077ff&style=for-the-badge&logo=vk&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/weishaypt" target="_blank">
+<a href="https://t.me/magicbyte_ak" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?color=2481cc&style=for-the-badge&logo=telegram&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/koniaev_aleks" target="_blank">
